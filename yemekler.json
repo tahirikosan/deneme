@@ -1,5 +1,5 @@
 ﻿{"yemekler":[
-	(
+	 {
 	"yemek_id":1,
 	"yemek_adi":"Yemek Adi 1",
 	"yemek_aciklama":"Tarifin Detaylari 1",
@@ -9,8 +9,8 @@
 	"yemek_kisi_sayisi":,
 	"yemek_resim":,
 	"yemek_malzemeler":,
-	),
-	(
+	 },
+	 {
 	"yemek_id":2,
 	"yemek_adi":"Yemek Adi 2",
 	"yemek_aciklama":"Tarifin Detaylari 2",
@@ -20,8 +20,8 @@
 	"yemek_kisi_sayisi":,
 	"yemek_resim":,
 	"yemek_malzemeler":,
-	),
-	(
+	 },
+	 {
 	"yemek_id":3,
 	"yemek_adi":"Yemek Adi 3",
 	"yemek_aciklama":"Tarifin Detaylari 3",
@@ -31,8 +31,8 @@
 	"yemek_kisi_sayisi":,
 	"yemek_resim":,
 	"yemek_malzemeler":,
-	),
-	(
+	 },
+	 {
 	"yemek_id":4,
 	"yemek_adi":"Yemek Adi 4",
 	"yemek_aciklama":"Tarifin Detaylari 4",
@@ -42,8 +42,8 @@
 	"yemek_kisi_sayisi":,
 	"yemek_resim":,
 	"yemek_malzemeler":,
-	),
-	(
+	 },
+	 {
 	"yemek_id":5,
 	"yemek_adi":"Yemek Adi 5",
 	"yemek_aciklama":"Tarifin Detaylari 5",
@@ -53,6 +53,6 @@
 	"yemek_kisi_sayisi":,
 	"yemek_resim":,
 	"yemek_malzemeler":,
-	),
+	 },
 
 ]}
